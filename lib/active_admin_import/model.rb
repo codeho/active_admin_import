@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module ActiveAdminImport
   class Model
     extend ActiveModel::Naming

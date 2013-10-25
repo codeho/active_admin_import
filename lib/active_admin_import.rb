@@ -1,3 +1,5 @@
+# -*- encoding : utf-8 -*-
+
 require 'activerecord-import'
 require 'active_admin_import/version'
 require 'active_admin_import/engine'
